@@ -18,4 +18,4 @@
 
 * Step 6 : `git comit -m "file README.md"`
 
-* Step 7 : `git push https://github.com/Jandersoft/jandersoft-aula-git.git`
+* Step 7 : `git push origin master`
