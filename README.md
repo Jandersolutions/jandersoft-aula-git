@@ -2,7 +2,7 @@
 ### Documentation Git-Jandersoft repository
 #### Author:  Janderson Batista Abreu
 #### Email:   jba1719@gmail.com
-#### Version: 0.1.0
+#### Version: 0.1.1
 ---
 
 
